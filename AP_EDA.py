@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 # Q4. What is the average processing and payment time?
 
 # Load the dataset and perform EDA
-data = pd.read_excel('/Users/somahelik/PycharmProjects/Data_Analysis_Projects/AccountsPayable_Raw_data.xlsx')
+data = pd.read_excel('/Users/User/Pycharm/Beginner_projects/AccountsPayable_Raw_data.xlsx')
 
 print(data.head())
 print(data.columns)
